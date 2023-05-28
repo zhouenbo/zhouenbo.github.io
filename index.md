@@ -2,67 +2,115 @@
 layout: homepage
 ---
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
 ## News
 
-- **[Feb 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sep 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Jun 2023]** I will teach GEOG W12 Maps and Spatial Reasoning and CMPSC 16 Problem Solving with C++.
+- **[Dec 2022]** I finished a software engineering intern (machine learning) on geo-document retrieval at Google.
+- **[Sep 2022]** I finished a PhD software engineering intern (machine learning) in Ads Core ML team at Meta Inc.
+- **[Sep 2021]** I finished a research engineering intern (computer vision) on object detection at Uber AI and received a fulltime L4 return offer.
 
-## Publications
+## Education
 
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
-  <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] [[Project](https://mnemonics.yyliu.net/)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+- **PhD** 2018 - now, Geography, University of California, Santa Barbara
+- **MS** 2015 - 2018, Cartography and GIS, Peking University
+- **MS** 2011 - 2015, GIS & Economics, Peking University
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
+## Research Interests
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
+- **GeoAI:** spatial representation learning, self-supervised learning, explainable AI, remotely sensed data information extraction
+- **Spatial Optimization:** facility siting, heuristics for non-convex optimization
 
+## Working Experiences
+- **Research Assistant**
+  <br>
+  Graduate Student Researcher in Climate Hazards Center, August 2023 - , UC Santa Barbara
+  <br>
+  Graduate Student Researcher with Dr. Keith Clarke, Jul 2019 - Mar 2020, UC Santa Barbara
+  <br>
+  Graduate Student Researcher with Dr. Vena Chu, Sep 2018 - Jun 2019, UC Santa Barbara
+  <br>
+  Research Assistant with Dr. Shanjun Mao and Mei Li, Sep 2015 - Jun 2018, Peking University
 
-## Selected Talks
+- **Teaching Associate**
+  <br>
+  CMPSC 16 PROBLEM SOLVING I, Summer 2023, CS department at UC Santa Barbara
+  <br>
+  GEOG W12 Maps and Spatial Reasoning, Summer 2023, Geography Department at UC Santa Barbara
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+- **Teaching Assistant**
   <br>
-  NeurIPS Official Meetups
+  CMPSC 190DF/PSTAT 197C Capstone Project in Data Science (2023 Spring), CS and Statistics department at UC Santa Barbara
   <br>
-  Beijing, China, December 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-slides.pdf)]
+  CMPSC 190DE/PSTAT 197B Capstone Project in Data Science (2023 Winter), CS and Statistics department at UC Santa Barbara
+  <br>
+  GEOG 111C Smart Green Cities (2022 Spring), Geography department at UC Santa Barbara
+  <br>
+  GEOG W12 Maps and Spatial Reasoning, (2022 Winter, 2021 Fall, 2020 Spring & Fall), Geography department at UC Santa Barbara
+  <br>
+  GEOG 113 Polar Environments, (2021 Spring), Geography department at UC Santa Barbara
+  <br>
+  GEOG 3 Oceans and Atmosphere, (2021 Winter), Geography department at UC Santa Barbara
+  <br>
+  GEOG W8 Global Warming, (2020 Summer), Geography department at UC Santa Barbara
+  <br>
+  Advanced Geographical Information System, (2016 Spring), School of Earth and Space Sciences at Peking University
+  
+ - **Industry Experiences**
+  <br>
+  Software Engineer Intern, Sep 2022 - Dec 2022, Google
+  <br>
+  PhD Software Engineer Intern, Jun 2022 - Sep 2022, Meta (previously Facebook)
+  <br>
+  Software Engineer Intern, Jun 2021 - Sep 2021, Uber
 
-- **Multi-Class Incremental Learning**
-  <br>
-  School of Computer Science and Engineering, Nanyang Technological University
-  <br>
-  Singapore, July 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/multi-class-incremental-learning.pdf)]
+## Selected Publications
 
-- **Meta-Transfer Learning for Few-Shot Learning**
+- **LiDAR Data Segmentation using Deep Learning for Indoor Mapping**
   <br>
-  School of Computing, National University of Singapore
+  **Enbo Zhou**, Keith C Clarke, Joel Salzman, Haoyu Shi, Bryn Morgan
   <br>
-  Singapore, April 2019 [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-slides.pdf)]
+  **AutoCarto 2020**.
+  <br>
+  [[PDF](https://cartogis.org/docs/autocarto/2020/docs/abstracts/4b%20LiDAR%20Data%20Segmentation%20using%20Deep%20Learning%20for%20Indoor%20Mapping.pdf)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+
+- **Overview of Contributions in Geographical Analysis: Waldo Tobler**
+  <br>
+  Alan T Murray, Jing Xu, Jiwon Baik, Susan Burtner, Seonga Cho, Evgeny Noi, B Amelia Pludow, **Enbo Zhou**
+  <br>
+  **Geographical Analysis**.
+  <br>
+  [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12257)] 
+
+- **PAM spatial clustering algorithm research based on CUDA**
+  <br>
+  **Enbo Zhou**, Shanjun Mao, Mei Li, Zhenming Sun
+  <br>
+  24th International Conference on Geoinformatics. **Geoinformatics 2016**.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/7578971)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+
+- **Investigating street accident characteristics and optimal safe route recommendation: A case study of new york city**
+  <br>
+  **Enbo Zhou**, Shanjun Mao, Mei Li
+  <br>
+  25th International Conference on Geoinformatics **Geoinformatics 2016**.
+  <br>
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/8090942)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
 ## Services
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Journal Reviewers: [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671).
+
+## Professional Society Memberships
+
+- American Association of Geographers (AAG)
+- The Cartography and Geographic Information Society (CaGIS)
+- The International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
+- University Consortium for Geographic Information Science (UCGIS)
+
+## Selected Awards
+
+- Jack Dangermond Travel Scholarship (UCSB Geography)
+- Regents Fellowship (UCSB)
+- Outstanding Graduate Awards (Peking University)
+- May 4th Scholarship (Peking University)
