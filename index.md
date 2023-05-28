@@ -4,7 +4,7 @@ layout: homepage
 
 ## News
 
-- **[Jun 2023]** I will teach GEOG W12 Maps and Spatial Reasoning and CMPSC 16 Problem Solving with C++.
+- **[Jun 2023]** I will teach GEOG W12 Maps and Spatial Reasoning and CMPSC 16 Problem Solving with C++ in Summer 2023.
 - **[Dec 2022]** I finished a software engineering intern (machine learning) on geo-document retrieval at Google.
 - **[Sep 2022]** I finished a PhD software engineering intern (machine learning) in Ads Core ML team at Meta Inc.
 - **[Sep 2021]** I finished a research engineering intern (computer vision) on object detection at Uber AI and received a fulltime L4 return offer.
