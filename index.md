@@ -33,7 +33,7 @@ layout: homepage
 
 - **Teaching Associate**
   <br>
-  CMPSC 16 PROBLEM SOLVING I, Summer 2023, CS department at UC Santa Barbara
+  CMPSC 16 PROBLEM SOLVING I ([link](https://ucsb-cs16.github.io/m23/)), Summer 2023, CS department at UC Santa Barbara
   <br>
   GEOG W12 Maps and Spatial Reasoning, Summer 2023, Geography Department at UC Santa Barbara
 
