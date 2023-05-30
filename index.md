@@ -41,7 +41,7 @@ layout: homepage
   <br>
   CMPSC 190DF/PSTAT 197C Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Spring), CS and Statistics department at UC Santa Barbara
   <br>
-  CMPSC 190DE/PSTAT 197B Capstone Project in Data Science (2023 Winter), CS and Statistics department at UC Santa Barbara
+  CMPSC 190DE/PSTAT 197B Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Winter), CS and Statistics department at UC Santa Barbara
   <br>
   GEOG 111C Smart Green Cities (2022 Spring), Geography department at UC Santa Barbara
   <br>
