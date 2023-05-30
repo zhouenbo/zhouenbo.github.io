@@ -33,13 +33,13 @@ layout: homepage
 
 - **Teaching Associate**
   <br>
-  CMPSC 16 PROBLEM SOLVING I ([Course Website](https://ucsb-cs16.github.io/m23/)), Summer 2023, CS department at UC Santa Barbara
+  CMPSC 16 PROBLEM SOLVING I ([Course Website](https://ucsb-cs16.github.io/m23/), Summer 2023), CS department at UC Santa Barbara
   <br>
-  GEOG W12 Maps and Spatial Reasoning, Summer 2023, Geography Department at UC Santa Barbara
+  GEOG W12 Maps and Spatial Reasoning (Summer 2023), Geography Department at UC Santa Barbara
 
 - **Teaching Assistant**
   <br>
-  CMPSC 190DF/PSTAT 197C Capstone Project in Data Science (2023 Spring), CS and Statistics department at UC Santa Barbara
+  CMPSC 190DF/PSTAT 197C Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Spring), CS and Statistics department at UC Santa Barbara
   <br>
   CMPSC 190DE/PSTAT 197B Capstone Project in Data Science (2023 Winter), CS and Statistics department at UC Santa Barbara
   <br>
