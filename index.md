@@ -93,7 +93,7 @@ layout: homepage
   <br>
   **Enbo Zhou**, Shanjun Mao, Mei Li
   <br>
-  25th International Conference on Geoinformatics **Geoinformatics 2016**.
+  25th International Conference on Geoinformatics **Geoinformatics 2017**.
   <br>
   [[PDF](https://ieeexplore.ieee.org/abstract/document/8090942)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 
