@@ -13,7 +13,7 @@ layout: homepage
 
 - **PhD** 2018 - now, Geography, University of California, Santa Barbara
 - **MS** 2015 - 2018, Cartography and GIS, Peking University
-- **MS** 2011 - 2015, GIS & Economics, Peking University
+- **BS** 2011 - 2015, GIS & Economics, Peking University
 
 ## Research Interests
 
