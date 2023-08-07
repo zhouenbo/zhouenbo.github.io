@@ -4,6 +4,8 @@ layout: homepage
 
 ## News
 
+- **[Jun 2023]** My mentee Lyndsey Umsted in the data science capstone class [Course Website](https://pstat197.github.io/) will present our project <strong><i>Understanding and modeling human mobility response to California wildfires</i></strong> at [SIGKDD 2023 SOCAL DATA SCIENCE DAY](https://sites.google.com/usc.edu/socal-data-science-day/home).
+- **[Aug 2023]** I joined [Climate Hazard Center](https://www.chc.ucsb.edu/) at UCSB as a graduate student researcher to help climiate scientists correct station precipitation observations using statistics and machine learning.
 - **[Jun 2023]** I will teach GEOG W12 Maps and Spatial Reasoning and CMPSC 16 Problem Solving with C++ in Summer 2023.
 - **[Dec 2022]** I finished a software engineering intern (machine learning) on geo-document retrieval at Google.
 - **[Sep 2022]** I finished a PhD software engineering intern (machine learning) in Ads Core ML team at Meta Inc.
@@ -31,7 +33,7 @@ layout: homepage
   <br>
   Research Assistant with Dr. Shanjun Mao and Mei Li, Sep 2015 - Jun 2018, Peking University
 
-- **Teaching Associate**
+- **Instructor/Teaching Associate**
   <br>
   CMPSC 16 Problem Solving I ([Course Website](https://ucsb-cs16.github.io/m23/), Summer 2023), CS department at UC Santa Barbara
   <br>
