@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## News
-
+- **[Oct 2023]** I received a certificate from Summer Teaching Institue for Associates at UC Santa Barbara.
 - **[Aug 2023]** My mentee Lyndsey Umsted in the data science capstone class ([Course Website](https://pstat197.github.io/)) will present our project <strong><i>Understanding and modeling human mobility response to California wildfires</i></strong> at [SIGKDD 2023 SOCAL DATA SCIENCE DAY](https://sites.google.com/usc.edu/socal-data-science-day/home).
 - **[Aug 2023]** I joined [Climate Hazard Center](https://www.chc.ucsb.edu/) at UCSB as a graduate student researcher to help climiate scientists correct station precipitation observations using statistics and machine learning.
 - **[Jun 2023]** I will teach GEOG W12 Maps and Spatial Reasoning and CMPSC 16 Problem Solving with C++ in Summer 2023.
