@@ -69,6 +69,14 @@ layout: homepage
 
 ## Selected Publications
 
+- **Balancing Workloads through Co-location in Covering Problems**
+  <br>
+  Jing Xu, Alan T. Murray, Richard L. Church, Ran Wei, Hongchu Yu, Jiwon Baik, **Enbo Zhou**
+  <br>
+  **Geographical Analysis**.
+  <br>
+  [[PDF](https://onlinelibrary.wiley.com/doi/full/10.1111/gean.12389)] 
+
 - **LiDAR Data Segmentation using Deep Learning for Indoor Mapping**
   <br>
   **Enbo Zhou**, Keith C Clarke, Joel Salzman, Haoyu Shi, Bryn Morgan
