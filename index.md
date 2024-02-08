@@ -3,6 +3,8 @@ layout: homepage
 ---
 
 ## News
+- **[Jan 2024]** My first authered paper has been accepted in Cartography and Geographical Information Science (CaGIS)!
+- **[Jan 2024]** One coauthered paper titled "Balancing Workloads through Co-location in Covering Problems" has been published in Geographical Analysis, see [paper link](https://doi.org/10.1111/gean.12389).
 - **[Oct 2023]** I received a certificate from Summer Teaching Institue for Associates at UC Santa Barbara.
 - **[Aug 2023]** My mentee Lyndsey Umsted in the data science capstone class ([Course Website](https://pstat197.github.io/)) will present our project <strong><i>Understanding and modeling human mobility response to California wildfires</i></strong> at [SIGKDD 2023 SOCAL DATA SCIENCE DAY](https://sites.google.com/usc.edu/socal-data-science-day/home).
 - **[Aug 2023]** I joined [Climate Hazard Center](https://www.chc.ucsb.edu/) at UCSB as a graduate student researcher to help climiate scientists correct station precipitation observations using statistics and machine learning.
