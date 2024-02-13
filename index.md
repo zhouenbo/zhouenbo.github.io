@@ -111,7 +111,7 @@ layout: homepage
 
 ## Services
 
-- Journal Reviewers: [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671).
+- Journal Reviewers: [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671), [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061).
 
 ## Professional Society Memberships
 
