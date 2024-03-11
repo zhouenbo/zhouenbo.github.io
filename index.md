@@ -69,6 +69,14 @@ layout: homepage
 
 ## Selected Publications
 
+- **Mapping 3-D classroom seats based on partial object point cloud completion**
+  <br>
+  **Enbo Zhou**, Alan T. Murray, Jiwon Baik
+  <br>
+  **Cartography and Geographic Information Science**.
+  <br>
+  [[PDF](https://www.tandfonline.com/doi/full/10.1080/15230406.2024.2320150)] 
+
 - **Balancing Workloads through Co-location in Covering Problems**
   <br>
   Jing Xu, Alan T. Murray, Richard L. Church, Ran Wei, Hongchu Yu, Jiwon Baik, **Enbo Zhou**
