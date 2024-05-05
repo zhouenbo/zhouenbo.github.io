@@ -26,46 +26,29 @@ layout: homepage
 
 ## Working Experiences
 - **Research Assistant**
-  <br>
-  Graduate Student Researcher in Climate Hazards Center, August 2023 - , UC Santa Barbara
-  <br>
-  Graduate Student Researcher with Dr. Keith Clarke, Jul 2019 - Mar 2020, UC Santa Barbara
-  <br>
-  Graduate Student Researcher with Dr. Vena Chu, Sep 2018 - Jun 2019, UC Santa Barbara
-  <br>
-  Research Assistant with Dr. Shanjun Mao and Mei Li, Sep 2015 - Jun 2018, Peking University
+  - Graduate Student Researcher in Climate Hazards Center, August 2023 - , UC Santa Barbara
+  - Graduate Student Researcher with Dr. Keith Clarke, Jul 2019 - Mar 2020, UC Santa Barbara
+  - Graduate Student Researcher with Dr. Vena Chu, Sep 2018 - Jun 2019, UC Santa Barbara
+  - Research Assistant with Dr. Shanjun Mao and Mei Li, Sep 2015 - Jun 2018, Peking University
 
 - **Instructor/Teaching Associate**
-  <br>
-  CMPSC 16 Problem Solving I ([Course Website](https://ucsb-cs16.github.io/m23/), Summer 2023), CS department at UC Santa Barbara
-  <br>
-  GEOG W12 Maps and Spatial Reasoning (Summer 2023), Geography Department at UC Santa Barbara
+  - CMPSC 16 Problem Solving I ([Course Website](https://ucsb-cs16.github.io/m23/), Summer 2023), CS department at UC Santa Barbara
+  - GEOG W12 Maps and Spatial Reasoning (Summer 2023), Geography Department at UC Santa Barbara
 
 - **Teaching Assistant**
-  <br>
-  CMPSC 190DF/PSTAT 197C Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Spring), Computer Science/Statistics department at UC Santa Barbara
-  <br>
-  CMPSC 190DE/PSTAT 197B Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Winter), Computer Science/Statistics department at UC Santa Barbara
-  <br>
-  GEOG 111C Smart Green Cities (2022 Spring), Geography department at UC Santa Barbara
-  <br>
-  GEOG W12 Maps and Spatial Reasoning, (2022 Winter, 2021 Fall, 2020 Spring & Fall), Geography department at UC Santa Barbara
-  <br>
-  GEOG 113 Polar Environments, (2021 Spring), Geography department at UC Santa Barbara
-  <br>
-  GEOG 3 Oceans and Atmosphere, (2021 Winter), Geography department at UC Santa Barbara
-  <br>
-  GEOG W8 Global Warming, (2020 Summer), Geography department at UC Santa Barbara
-  <br>
-  Advanced Geographical Information System, (2016 Spring), School of Earth and Space Sciences at Peking University
+  - CMPSC 190DF/PSTAT 197C Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Spring), Computer Science/Statistics department at UC Santa Barbara
+  - CMPSC 190DE/PSTAT 197B Capstone Project in Data Science ([Course Website](https://pstat197.github.io/), 2023 Winter), Computer Science/Statistics department at UC Santa Barbara
+  - GEOG 111C Smart Green Cities (2022 Spring), Geography department at UC Santa Barbara
+  - GEOG W12 Maps and Spatial Reasoning, (2022 Winter, 2021 Fall, 2020 Spring & Fall), Geography department at UC Santa Barbara
+  - GEOG 113 Polar Environments, (2021 Spring), Geography department at UC Santa Barbara
+  - GEOG 3 Oceans and Atmosphere, (2021 Winter), Geography department at UC Santa Barbara
+  - GEOG W8 Global Warming, (2020 Summer), Geography department at UC Santa Barbara
+  - Advanced Geographical Information System, (2016 Spring), School of Earth and Space Sciences at Peking University
   
- - **Industry Experiences**
-  <br>
-  Software Engineer Intern, Sep 2022 - Dec 2022, Google
-  <br>
-  PhD Software Engineer Intern, Jun 2022 - Sep 2022, Meta (previously Facebook)
-  <br>
-  Software Engineer Intern, Jun 2021 - Sep 2021, Uber
+- **Industry Experiences**
+  - Software Engineer Intern, Sep 2022 - Dec 2022, Google
+  - PhD Software Engineer Intern, Jun 2022 - Sep 2022, Meta (previously Facebook)
+  - Software Engineer Intern, Jun 2021 - Sep 2021, Uber
 
 ## Selected Publications
 
