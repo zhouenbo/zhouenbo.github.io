@@ -119,7 +119,11 @@ layout: homepage
 
 ## Services
 
-- Journal Reviewers: [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671), [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061), [Cartography and Geographic Information Science](https://www.tandfonline.com/toc/tcag20/current).
+- Journal Reviewers: 
+  -[Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061)
+  -[Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
+  -[Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
+  -[Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 
 ## Professional Society Memberships
 
