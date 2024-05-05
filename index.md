@@ -102,7 +102,7 @@ layout: homepage
 
 ## Services
 
-- Journal Reviewers: 
+- Journal reviewer for: 
   - [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061)
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
