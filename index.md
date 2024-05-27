@@ -106,6 +106,7 @@ layout: homepage
   - [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061)
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
+  - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 
 ## Professional Society Memberships
