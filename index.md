@@ -107,6 +107,7 @@ layout: homepage
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
+  - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 
 ## Professional Society Memberships
