@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## News
+- **[Jun 2024]** I graduated from UC Santa Barbara with a PhD in Geography!
 - **[Jan 2024]** My new paper titled "Mapping 3-D classroom seats based on partial object point cloud completion" has been accepted in Cartography and Geographical Information Science (CaGIS), see [paper link](https://www.tandfonline.com/doi/full/10.1080/15230406.2024.2320150)!
 - **[Jan 2024]** One coauthored paper titled "Balancing Workloads through Co-location in Covering Problems" has been published in Geographical Analysis, see [paper link](https://doi.org/10.1111/gean.12389).
 - **[Oct 2023]** I received a certificate from Summer Teaching Institue for Associates at UC Santa Barbara.
@@ -15,7 +16,7 @@ layout: homepage
 
 ## Education
 
-- **PhD** 2018 - now, Geography, University of California, Santa Barbara
+- **PhD** 2018 - 2024, Geography, University of California, Santa Barbara
 - **MS** 2015 - 2018, Cartography and GIS, Peking University
 - **BS** 2011 - 2015, GIS & Economics, Peking University
 
@@ -26,7 +27,7 @@ layout: homepage
 
 ## Working Experiences
 - **Research Assistant**
-  - Graduate Student Researcher in Climate Hazards Center, August 2023 - , UC Santa Barbara
+  - Graduate Student Researcher in Climate Hazards Center, August 2023 - June 2024, UC Santa Barbara
   - Graduate Student Researcher with Dr. Keith Clarke, Jul 2019 - Mar 2020, UC Santa Barbara
   - Graduate Student Researcher with Dr. Vena Chu, Sep 2018 - Jun 2019, UC Santa Barbara
   - Research Assistant with Dr. Shanjun Mao and Mei Li, Sep 2015 - Jun 2018, Peking University
@@ -105,6 +106,7 @@ layout: homepage
 - Journal reviewer for: 
   - [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061)
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
+  - [Cities](https://www.sciencedirect.com/journal/cities)
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
