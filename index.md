@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 ## News
+- **[Jan 2024]** My new paper titled "Facility Layout and Spatial Configuration Efficiency Assessment" has been published in Networks and Spatial Economics, see [paper link](https://link.springer.com/article/10.1007/s11067-024-09637-z)!
 - **[Jun 2024]** I graduated from UC Santa Barbara with a PhD in Geography!
 - **[Jan 2024]** My new paper titled "Mapping 3-D classroom seats based on partial object point cloud completion" has been accepted in Cartography and Geographical Information Science (CaGIS), see [paper link](https://www.tandfonline.com/doi/full/10.1080/15230406.2024.2320150)!
 - **[Jan 2024]** One coauthored paper titled "Balancing Workloads through Co-location in Covering Problems" has been published in Geographical Analysis, see [paper link](https://doi.org/10.1111/gean.12389).
