@@ -54,6 +54,14 @@ layout: homepage
 
 ## Selected Publications
 
+- **Facility Layout and Spatial Configuration Efficiency Assessment**
+  <br>
+  **Enbo Zhou**, Alan T. Murray
+  <br>
+  **Networks and Spatial Economics**.
+  <br>
+  [[PDF](https://rdcu.be/dOKUQ)] 
+
 - **Mapping 3-D classroom seats based on partial object point cloud completion**
   <br>
   **Enbo Zhou**, Alan T. Murray, Jiwon Baik
