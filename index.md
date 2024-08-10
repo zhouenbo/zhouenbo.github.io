@@ -119,6 +119,7 @@ layout: homepage
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
+  - [Scientific Reports](https://www.nature.com/srep/)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
 
 ## Professional Society Memberships
