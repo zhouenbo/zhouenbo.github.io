@@ -117,6 +117,7 @@ layout: homepage
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
   - [Cities](https://www.sciencedirect.com/journal/cities)
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
+  - [Computers, Environment and Urban Systems](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
