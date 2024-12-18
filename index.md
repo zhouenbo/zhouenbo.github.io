@@ -119,9 +119,12 @@ layout: homepage
   - [Clean Technologies and Environmental Policy](https://link.springer.com/journal/10098)
   - [Computers, Environment and Urban Systems](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
+  - [Environmental Monitoring and Assessment](https://link.springer.com/journal/10661)
+  - [Journal for Nature Conservation](https://www.sciencedirect.com/journal/journal-for-nature-conservation)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
+  - [Urban Climate](https://www.sciencedirect.com/journal/urban-climate)
 
 ## Professional Society Memberships
 
