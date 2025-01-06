@@ -120,6 +120,7 @@ layout: homepage
   - [Computers, Environment and Urban Systems](https://www.sciencedirect.com/journal/computers-environment-and-urban-systems)
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [Environmental Monitoring and Assessment](https://link.springer.com/journal/10661)
+  - [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326)
   - [Journal for Nature Conservation](https://www.sciencedirect.com/journal/journal-for-nature-conservation)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
