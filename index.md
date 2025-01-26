@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## News
-- **[Jan 2025]** My new paper titled "Locating and Orienting Facilities with Anisotropic Coverage" has been accepted in Computers, Environment and Urban Systems!
+- **[Jan 2025]** My new paper titled "Locating and Orienting Facilities with Anisotropic Coverage" has been published in Computers, Environment and Urban Systems, see [paper link](https://www.sciencedirect.com/science/article/pii/S0198971525000018)!
 - **[Jul 2024]** My new paper titled "Facility Layout and Spatial Configuration Efficiency Assessment" has been published in Networks and Spatial Economics, see [paper link](https://link.springer.com/article/10.1007/s11067-024-09637-z)!
 - **[Jun 2024]** I graduated from UC Santa Barbara with a PhD in Geography!
 - **[Jan 2024]** My new paper titled "Mapping 3-D classroom seats based on partial object point cloud completion" has been accepted in Cartography and Geographical Information Science (CaGIS), see [paper link](https://www.tandfonline.com/doi/full/10.1080/15230406.2024.2320150)!
@@ -54,6 +54,14 @@ layout: homepage
   - Software Engineer Intern, Jun 2021 - Sep 2021, Uber
 
 ## Selected Publications
+
+- **Locating and orienting facilities with anisotropic coverage**
+  <br>
+  **Enbo Zhou**, Alan T. Murray, Jiwon Baik, Jing Xu
+  <br>
+  **Computers, Environment and Urban Systems**.
+  <br>
+  [[PDF](https://www.sciencedirect.com/science/article/pii/S0198971525000018/pdfft?md5=4c7356da44e849ff76bdce120313ffda&pid=1-s2.0-S0198971525000018-main.pdf)] 
 
 - **Facility Layout and Spatial Configuration Efficiency Assessment**
   <br>
@@ -123,6 +131,7 @@ layout: homepage
   - [Environmental Monitoring and Assessment](https://link.springer.com/journal/10661)
   - [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326)
   - [Journal for Nature Conservation](https://www.sciencedirect.com/journal/journal-for-nature-conservation)
+  - [Networks and Spatial Economics](https://link.springer.com/journal/11067)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
