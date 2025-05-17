@@ -130,6 +130,7 @@ layout: homepage
   - [Ecological Indicators](https://www.sciencedirect.com/journal/ecological-indicators)
   - [Environmental Monitoring and Assessment](https://link.springer.com/journal/10661)
   - [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326)
+  - [Environmental Research Communications](https://iopscience.iop.org/journal/2515-7620)
   - [Journal for Nature Conservation](https://www.sciencedirect.com/journal/journal-for-nature-conservation)
   - [Networks and Spatial Economics](https://link.springer.com/journal/11067)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
