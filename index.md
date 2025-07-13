@@ -132,6 +132,7 @@ layout: homepage
   - [Environmental Research Letters](https://iopscience.iop.org/journal/1748-9326)
   - [Environmental Research Communications](https://iopscience.iop.org/journal/2515-7620)
   - [Journal for Nature Conservation](https://www.sciencedirect.com/journal/journal-for-nature-conservation)
+  - [Journal of Geographical Sciences](https://link.springer.com/journal/11442)
   - [Networks and Spatial Economics](https://link.springer.com/journal/11067)
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
