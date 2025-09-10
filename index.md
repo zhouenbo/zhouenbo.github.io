@@ -137,6 +137,7 @@ layout: homepage
   - [PROCEEDINGS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES](https://royalsocietypublishing.org/journal/rspa)
   - [Scientific Reports](https://www.nature.com/srep/)
   - [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671)
+  - [Transportation Research Interdisciplinary Perspectives](https://www.sciencedirect.com/journal/transportation-research-interdisciplinary-perspectives)
   - [Urban Climate](https://www.sciencedirect.com/journal/urban-climate)
 
 ## Professional Society Memberships
