@@ -122,6 +122,7 @@ layout: homepage
 ## Services
 
 - Journal reviewer for: 
+  - [Annals of GIS](https://www.tandfonline.com/journals/tagi20)
   - [Applied Spatial Analysis and Policy](https://link.springer.com/journal/12061)
   - [Cartography and Geographic Information Science](https://www.tandfonline.com/journals/tcag20)
   - [Cities](https://www.sciencedirect.com/journal/cities)
