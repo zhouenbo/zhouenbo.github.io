@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>{{ page.title | default: site.title }}</title>
+    {% seo %}
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="branding">
+          <h1 class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </h1>
+          <p class="site-subtitle">
+            Ph.D., UC Santa Barbara · GeoAI & Spatial Optimization
+          </p>
+        </div>
+        <nav class="site-nav">
+          <a href="#about">About</a>
+          <a href="#news">News</a>
+          <a href="#research-interests">Research</a>
+          <a href="#publications">Publications</a>
+          <a href="#experience">Experience</a>
+          <a href="#service">Service</a>
+          <a href="#awards">Awards</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main">
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p>
+          © {{ site.time | date: '%Y' }} {{ site.author.name }} · Powered by
+          Jekyll & GitHub Pages
+        </p>
+        <p class="footer-links">
+          <a href="mailto:{{ site.author.email }}">Email</a>
+          <a href="https://scholar.google.com" target="_blank" rel="noreferrer"
+            >Google Scholar</a
+          >
+          <a href="https://github.com/zhouenbo" target="_blank" rel="noreferrer"
+            >GitHub</a
+          >
+          <a
+            href="https://www.linkedin.com"
+            target="_blank"
+            rel="noreferrer"
+            >LinkedIn</a
+          >
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // Smooth scrolling for in-page navigation
+      document.addEventListener("DOMContentLoaded", function () {
+        const links = document.querySelectorAll('a[href^="#"]');
+        links.forEach((link) => {
+          link.addEventListener("click", function (e) {
+            const targetId = this.getAttribute("href").substring(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+              e.preventDefault();
+              window.scrollTo({
+                top: targetElement.offsetTop - 80,
+                behavior: "smooth",
+              });
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
+
