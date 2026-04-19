@@ -299,6 +299,7 @@ title: "Enbo Zhou | UC Santa Barbara"
         <ul class="list-tight">
           <li><a href="https://www.tandfonline.com/journals/tagi20" target="_blank" rel="noreferrer">Annals of GIS</a></li>
           <li><a href="https://link.springer.com/journal/12061" target="_blank" rel="noreferrer">Applied Spatial Analysis and Policy</a></li>
+          <li><a href="https://www.sciencedirect.com/journal/array" target="_blank" rel="noreferrer">Array</a></li>
           <li><a href="https://www.tandfonline.com/journals/tcag20" target="_blank" rel="noreferrer">Cartography and Geographic Information Science</a></li>
           <li><a href="https://www.sciencedirect.com/journal/cities" target="_blank" rel="noreferrer">Cities</a></li>
           <li><a href="https://link.springer.com/journal/10098" target="_blank" rel="noreferrer">Clean Technologies and Environmental Policy</a></li>
