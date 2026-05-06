@@ -308,6 +308,7 @@ title: "Enbo Zhou | UC Santa Barbara"
           <li><a href="https://link.springer.com/journal/10661" target="_blank" rel="noreferrer">Environmental Monitoring and Assessment</a></li>
           <li><a href="https://iopscience.iop.org/journal/1748-9326" target="_blank" rel="noreferrer">Environmental Research Letters</a></li>
           <li><a href="https://iopscience.iop.org/journal/2515-7620" target="_blank" rel="noreferrer">Environmental Research Communications</a></li>
+          <li><a href="https://link.springer.com/journal/44196" target="_blank" rel="noreferrer">International Journal of Computational Intelligence Systems</a></li>
           <li><a href="https://www.sciencedirect.com/journal/journal-for-nature-conservation" target="_blank" rel="noreferrer">Journal for Nature Conservation</a></li>
           <li><a href="https://link.springer.com/journal/11442" target="_blank" rel="noreferrer">Journal of Geographical Sciences</a></li>
           <li><a href="https://link.springer.com/journal/10109" target="_blank" rel="noreferrer">Journal of Geographical Systems</a></li>
