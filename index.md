@@ -304,6 +304,7 @@ title: "Enbo Zhou | UC Santa Barbara"
           <li><a href="https://www.sciencedirect.com/journal/cities" target="_blank" rel="noreferrer">Cities</a></li>
           <li><a href="https://link.springer.com/journal/10098" target="_blank" rel="noreferrer">Clean Technologies and Environmental Policy</a></li>
           <li><a href="https://www.sciencedirect.com/journal/computers-environment-and-urban-systems" target="_blank" rel="noreferrer">Computers, Environment and Urban Systems</a></li>
+          <li><a href="https://link.springer.com/journal/44327" target="_blank" rel="noreferrer">Discover Cities</a></li>
           <li><a href="https://www.sciencedirect.com/journal/ecological-indicators" target="_blank" rel="noreferrer">Ecological Indicators</a></li>
           <li><a href="https://link.springer.com/journal/10661" target="_blank" rel="noreferrer">Environmental Monitoring and Assessment</a></li>
           <li><a href="https://iopscience.iop.org/journal/1748-9326" target="_blank" rel="noreferrer">Environmental Research Letters</a></li>
@@ -312,6 +313,7 @@ title: "Enbo Zhou | UC Santa Barbara"
           <li><a href="https://www.sciencedirect.com/journal/journal-for-nature-conservation" target="_blank" rel="noreferrer">Journal for Nature Conservation</a></li>
           <li><a href="https://link.springer.com/journal/11442" target="_blank" rel="noreferrer">Journal of Geographical Sciences</a></li>
           <li><a href="https://link.springer.com/journal/10109" target="_blank" rel="noreferrer">Journal of Geographical Systems</a></li>
+          <li><a href="https://link.springer.com/journal/10846" target="_blank" rel="noreferrer">Journal of Intelligent & Robotic Systems</a></li>
           <li><a href="https://link.springer.com/journal/11067" target="_blank" rel="noreferrer">Networks and Spatial Economics</a></li>
           <li><a href="https://royalsocietypublishing.org/journal/rspa" target="_blank" rel="noreferrer">Proceedings of the Royal Society A</a></li>
           <li><a href="https://www.nature.com/srep/" target="_blank" rel="noreferrer">Scientific Reports</a></li>
