@@ -320,6 +320,7 @@ title: "Enbo Zhou | UC Santa Barbara"
           <li><a href="https://onlinelibrary.wiley.com/journal/14679671" target="_blank" rel="noreferrer">Transactions in GIS</a></li>
           <li><a href="https://www.sciencedirect.com/journal/transportation-research-interdisciplinary-perspectives" target="_blank" rel="noreferrer">Transportation Research Interdisciplinary Perspectives</a></li>
           <li><a href="https://www.sciencedirect.com/journal/urban-climate" target="_blank" rel="noreferrer">Urban Climate</a></li>
+          <li><a href="https://link.springer.com/journal/44212" target="_blank" rel="noreferrer">Urban Informatics</a></li>
         </ul>
       </div>
       <div>
